@@ -1,1 +1,1 @@
-## SQL Bussines Insights
+## SQL Business Insights
